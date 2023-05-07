@@ -1,1 +1,2 @@
 # safarnaama
+![Screenshot](one.jpeg)
